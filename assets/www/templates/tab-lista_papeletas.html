@@ -1,0 +1,16 @@
+<ion-view view-title="{{num_placa}} - Lista de Papeletas"><!-- View title -->
+	<ion-content>
+		<div class="item item-divider">Filtro</div><!-- Fuzzy algorithm -->
+		<div class="item item-body" >
+			<input type="text" ng-model="datos.buscar" ng-keyup="fuzzy('infraccion')" />
+		</div>
+		<!-- Lists of ballots -->
+	    <ion-list>
+	    	<ion-item class="item-remove-animate item-avatar item-icon-right" ng-click="funcion(contenido)" ng-repeat="contenido in datos.lista" type="item-text-wrap">
+	    		<img ng-src="{{datos.Tablahash[contenido.gravedad]}}">
+	        	<h2>{{contenido.infraccion |tam_max:25}}</h2>
+	        	<i class="icon ion-chevron-right icon-accessory"></i>
+	      	</ion-item>	      	
+	    </ion-list>
+	</ion-content>
+</ion-view>

@@ -1,0 +1,26 @@
+[
+  {
+    "placa": "ABC123",
+    "numero_autorizacion": "123",
+    "empresa": "Taxitel",
+    "fecha_emision": "2010-03-28",
+    "fecha_vencimiento": "2012-05-11",
+    "estado": "Vencido"
+  },
+  {
+    "placa": "ABC123",
+    "numero_autorizacion": "256",
+    "empresa": "Taxi Red",
+    "fecha_emision": "2009-09-13",
+    "fecha_vencimiento": "2010-11-01",
+    "estado": "Vencido"
+  },
+  {
+    "placa": "ABC123",
+    "numero_autorizacion": "357",
+    "empresa": "Taxiplus",
+    "fecha_emision": "2014-04-23",
+    "fecha_vencimiento": "2015-10-03",
+    "estado": "Valido"
+  }
+]

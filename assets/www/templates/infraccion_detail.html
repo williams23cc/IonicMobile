@@ -1,0 +1,19 @@
+<ion-view view-title="{{detail_lista.codigo}}">
+  <ion-content class="padding">
+	  <div class="list card">
+	  	<div class="item item-divider">Detalle de Infracciones</div>
+		  	<div class="item item-body" >
+		        <div>
+		        	<p>Codigo: {{detail_lista.codigo}}</p>
+		        	<p>Infraccion: {{detail_lista.infraccion}}</p>
+					<p>Gravedad: {{detail_lista.gravedad}}</p>
+					<p>Monto: {{detail_lista.monto | currency:'S/.'}}</p>
+					<p>Descuento: {{detail_lista.descuento | currency:'S/.'}}</p>
+					<p>Sancion: {{detail_lista.sancion}}</p>
+					<p>Puntos: {{detail_lista.puntos}}</p>   
+					<p>Medida: {{detail_lista.medida}}</p>
+		        </div>
+	      </div>
+	  </div> 
+  </ion-content>
+</ion-view>

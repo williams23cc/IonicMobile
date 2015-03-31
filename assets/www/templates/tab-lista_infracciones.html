@@ -1,0 +1,19 @@
+<ion-view view-title="{{num_placa}} - Infracciones">
+  <ion-content>
+  	 <div class="item item-divider">Filtro</div>
+		  	<div class="item item-body" >
+			<input type="text" ng-model="datos.buscar" ng-keyup="fuzzy('infraccion')" />
+	      </div>
+    <ion-list>
+		<ion-item ng-click="funcion(infraccion)" class="item-remove-animate item-avatar item-icon-right" ng-repeat="infraccion in datos.lista" type="item-text-wrap" >
+			<img ng-src="{{datos.Tablahash[infraccion.gravedad]}}">
+			<h2>Gravedad: {{infraccion.gravedad}}</h2>
+			<p>Codigo: {{infraccion.codigo}}</p>
+			<p>Monto: {{infraccion.monto | currency:'S/.'}}</p>
+			<i class="icon ion-chevron-right icon-accessory"></i>
+		</ion-item>
+    </ion-list>
+    
+    <!-- <ion-infinite-scroll ng-if="!datos.noMoreItemsAvailable" on-infinite="loadMore()" distance="10%"></ion-infinite-scroll> -->
+  </ion-content>
+</ion-view>

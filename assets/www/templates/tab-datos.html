@@ -1,0 +1,43 @@
+<ion-view view-title="{{num_placa}} - Datos del Propietario">
+    <ion-content class="padding">
+		<div class="card" ng-repeat="dato in datos.lista">
+		  	<div class="item item-divider">
+		    	Datos de la Placa
+		  	</div>
+		  	<div class="item item-text-wrap">
+		  		<div class="row">
+		  			<div class="col col-40">
+			  			Placa:<br>
+			  			A&ntilde;o:<br>
+			  			Color:<br>
+			  			Propietario:
+		  			</div>
+  					<div class="col">
+	  					{{dato.placa}}<br><br>
+	  					{{dato.color}}<br>
+	  					{{dato.propietario}}
+  					</div>
+		  		</div>
+		  	</div>
+		  	<div class="item item-divider">
+		    	Permisos
+			</div>
+		  	<div class="item item-text-wrap">
+		  		<div class="col col-40">
+		  			Setare:<br>
+		  			Estado:<br>	
+		  		</div>
+		  		<div class="col">
+		  		</div>
+		  	</div>
+		  	<div class="item item-divider">
+		    	Papeletas
+			</div>
+		  	<div class="item item-text-wrap">
+		  		<div class="col col-40">
+		  			Cantidad:
+		  		</div>
+		  	</div>
+		</div>
+	</ion-content>
+</ion-view>

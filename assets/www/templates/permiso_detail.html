@@ -1,0 +1,16 @@
+<ion-view view-title="{{detail_lista.empresa}}">
+  <ion-content class="padding">
+	  <div class="list card">
+	  	<div class="item item-divider">Detalle de Permisos</div>
+		  	<div class="item item-body" >
+		        <div>
+		        	<p>Empresa: {{detail_lista.empresa}}</p>
+		        	<p>Numero de Autorizacion: {{detail_lista.numero_autorizacion}}</p>
+					<p>Fecha de Emision: {{detail_lista.fecha_emision | date}}</p>
+					<p>Fecha de Vencimiento: {{detail_lista.fecha_vencimiento | date}}</p>
+					<p>Estado: {{detail_lista.estado}}</p>    
+		        </div>
+	      </div>
+	  </div> 
+  </ion-content>
+</ion-view>

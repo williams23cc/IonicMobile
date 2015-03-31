@@ -1,0 +1,512 @@
+[
+  {
+    "placa": "ABC123",
+    "numero_papeleta": "114153",
+    "fecha": "1998-05-12",
+    "cod_infraccion": "E2",
+    "infraccion": "Estacionar en zona rigida senalada",
+    "monto": "130",
+    "rebaja": "0",
+    "valor": "130"
+  },
+  {
+    "placa": "ABC123",
+    "numero_papeleta": "114154",
+    "fecha": "1998-12-17",
+    "cod_infraccion": "C1",
+    "infraccion": "Conducir en estado de ebriedad comprobado con el examen respectivo o negarse al mismo",
+    "monto": "260",
+    "rebaja": "0",
+    "valor": "260"
+  },
+  {
+    "placa": "ABC123",
+    "numero_papeleta": "114155",
+    "fecha": "1999-11-12",
+    "cod_infraccion": "E7",
+    "infraccion": "Detener el vehiculo sobre demarcatoria de interseccion o en el crucero peatonal",
+    "monto": "140",
+    "rebaja": "0",
+    "valor": "140"
+  },
+  {
+    "placa": "ABC123",
+    "numero_papeleta": "114156",
+    "fecha": "2000-10-06",
+    "cod_infraccion": "E3",
+    "infraccion": "Estacionar interrumpir transito",
+    "monto": "290",
+    "rebaja": "0",
+    "valor": "290"
+  },
+  {
+    "placa": "ABC123",
+    "numero_papeleta": "114157",
+    "fecha": "2001-01-02",
+    "cod_infraccion": "C1",
+    "infraccion": "Conducir en estado de ebriedad comprobado con el examen respectivo o negarse al mismo",
+    "monto": "300",
+    "rebaja": "0",
+    "valor": "300"
+  },
+  {
+    "placa": "ABC123",
+    "numero_papeleta": "114158",
+    "fecha": "2013-09-12",
+    "cod_infraccion": "E2",
+    "infraccion": "Estacionar en una zona rigida",
+    "monto": "130",
+    "rebaja": "0",
+    "valor": "130"
+  },
+  {
+    "placa": "ABC123",
+    "numero_papeleta": "114159",
+    "fecha": "2013-09-12",
+    "cod_infraccion": "E6",
+    "infraccion": "Estacionar en una zona rigida",
+    "monto": "140",
+    "rebaja": "0",
+    "valor": "140"
+  },
+  {
+    "placa": "ABC123",
+    "numero_papeleta": "114160",
+    "fecha": "2014-09-12",
+    "cod_infraccion": "E4",
+    "infraccion": "Conducir en estado de ebriedad comprobado con el examen respectivo o negarse al mismo",
+    "monto": "140",
+    "rebaja": "0",
+    "valor": "140"
+  },
+  {
+    "placa": "ABC123",
+    "numero_papeleta": "114161",
+    "fecha": "2000-09-12",
+    "cod_infraccion": "E4",
+    "infraccion": "Estacionar en una zona rigida",
+    "monto": "150",
+    "rebaja": "0",
+    "valor": "150"
+  },
+  {
+    "placa": "ABC123",
+    "numero_papeleta": "114162",
+    "fecha": "2000-09-12",
+    "cod_infraccion": "E6",
+    "infraccion": "Conducir en estado de ebriedad comprobado con el examen respectivo o negarse al mismo",
+    "monto": "30",
+    "rebaja": "0",
+    "valor": "30"
+  },
+  {
+    "placa": "ABC123",
+    "numero_papeleta": "114163",
+    "fecha": "2014-09-12",
+    "cod_infraccion": "E6",
+    "infraccion": "Estacionar en una zona rigida",
+    "monto": "40",
+    "rebaja": "0",
+    "valor": "40"
+  },
+  {
+    "placa": "ABC123",
+    "numero_papeleta": "114164",
+    "fecha": "2014-09-12",
+    "cod_infraccion": "E2",
+    "infraccion": "Conducir en estado de ebriedad comprobado con el examen respectivo o negarse al mismo",
+    "monto": "300",
+    "rebaja": "0",
+    "valor": "300"
+  },
+  {
+    "placa": "ABC123",
+    "numero_papeleta": "114165",
+    "fecha": "2013-09-12",
+    "cod_infraccion": "E5",
+    "infraccion": "Estacionar en una zona rigida",
+    "monto": "100",
+    "rebaja": "0",
+    "valor": "100"
+  },
+  {
+    "placa": "ABC123",
+    "numero_papeleta": "114166",
+    "fecha": "2013-09-12",
+    "cod_infraccion": "E3",
+    "infraccion": "Estacionar interrumpir transito",
+    "monto": "250",
+    "rebaja": "0",
+    "valor": "250"
+  },
+  {
+    "placa": "ABC123",
+    "numero_papeleta": "114167",
+    "fecha": "2013-09-12",
+    "cod_infraccion": "E9",
+    "infraccion": "Estacionar interrumpir transito",
+    "monto": "150",
+    "rebaja": "0",
+    "valor": "150"
+  },
+  {
+    "placa": "ABC123",
+    "numero_papeleta": "114168",
+    "fecha": "2014-09-12",
+    "cod_infraccion": "E5",
+    "infraccion": "Conducir en estado de ebriedad comprobado con el examen respectivo o negarse al mismo",
+    "monto": "180",
+    "rebaja": "0",
+    "valor": "180"
+  },
+  {
+    "placa": "ABC123",
+    "numero_papeleta": "114169",
+    "fecha": "2013-09-12",
+    "cod_infraccion": "E1",
+    "infraccion": "Estacionar en una zona rigida",
+    "monto": "220",
+    "rebaja": "0",
+    "valor": "220"
+  },
+  {
+    "placa": "ABC123",
+    "numero_papeleta": "114170",
+    "fecha": "1998-05-12",
+    "cod_infraccion": "E2",
+    "infraccion": "Estacionar en zona rigida senalada",
+    "monto": "130",
+    "rebaja": "0",
+    "valor": "130"
+  },
+  {
+    "placa": "ABC123",
+    "numero_papeleta": "114171",
+    "fecha": "1998-12-17",
+    "cod_infraccion": "C1",
+    "infraccion": "Conducir en estado de ebriedad comprobado con el examen respectivo o negarse al mismo",
+    "monto": "260",
+    "rebaja": "0",
+    "valor": "260"
+  },
+  {
+    "placa": "ABC123",
+    "numero_papeleta": "114172",
+    "fecha": "1999-11-12",
+    "cod_infraccion": "C7",
+    "infraccion": "Detener el vehiculo sobre demarcatoria de interseccion o en el crucero peatonal",
+    "monto": "140",
+    "rebaja": "0",
+    "valor": "140"
+  },
+  {
+    "placa": "ABC123",
+    "numero_papeleta": "114173",
+    "fecha": "2011-10-06",
+    "cod_infraccion": "C3",
+    "infraccion": "Estacionar interrumpir transito",
+    "monto": "290",
+    "rebaja": "0",
+    "valor": "290"
+  },
+  {
+    "placa": "ABC123",
+    "numero_papeleta": "114174",
+    "fecha": "2001-01-02",
+    "cod_infraccion": "C1",
+    "infraccion": "Conducir en estado de ebriedad comprobado con el examen respectivo o negarse al mismo",
+    "monto": "300",
+    "rebaja": "0",
+    "valor": "300"
+  },
+  {
+    "placa": "ABC123",
+    "numero_papeleta": "114175",
+    "fecha": "2013-09-12",
+    "cod_infraccion": "C2",
+    "infraccion": "Estacionar en una zona rigida",
+    "monto": "130",
+    "rebaja": "0",
+    "valor": "130"
+  },
+  {
+    "placa": "ABC123",
+    "numero_papeleta": "114176",
+    "fecha": "2014-09-12",
+    "cod_infraccion": "C6",
+    "infraccion": "Estacionar en una zona rigida",
+    "monto": "140",
+    "rebaja": "0",
+    "valor": "140"
+  },
+  {
+    "placa": "ABC123",
+    "numero_papeleta": "114177",
+    "fecha": "2011-09-12",
+    "cod_infraccion": "C4",
+    "infraccion": "Conducir en estado de ebriedad comprobado con el examen respectivo o negarse al mismo",
+    "monto": "140",
+    "rebaja": "0",
+    "valor": "140"
+  },
+  {
+    "placa": "ABC123",
+    "numero_papeleta": "114178",
+    "fecha": "2013-09-12",
+    "cod_infraccion": "E4",
+    "infraccion": "Estacionar en una zona rigida",
+    "monto": "150",
+    "rebaja": "0",
+    "valor": "150"
+  },
+  {
+    "placa": "ABC123",
+    "numero_papeleta": "114179",
+    "fecha": "2014-09-12",
+    "cod_infraccion": "C6",
+    "infraccion": "Conducir en estado de ebriedad comprobado con el examen respectivo o negarse al mismo",
+    "monto": "30",
+    "rebaja": "0",
+    "valor": "30"
+  },
+  {
+    "placa": "ABC123",
+    "numero_papeleta": "114180",
+    "fecha": "2011-09-12",
+    "cod_infraccion": "E6",
+    "infraccion": "Estacionar en una zona rigida",
+    "monto": "40",
+    "rebaja": "0",
+    "valor": "40"
+  },
+  {
+    "placa": "ABC123",
+    "numero_papeleta": "114181",
+    "fecha": "2011-09-12",
+    "cod_infraccion": "C2",
+    "infraccion": "Conducir en estado de ebriedad comprobado con el examen respectivo o negarse al mismo",
+    "monto": "300",
+    "rebaja": "0",
+    "valor": "300"
+  },
+  {
+    "placa": "ABC123",
+    "numero_papeleta": "114182",
+    "fecha": "2013-09-12",
+    "cod_infraccion": "E5",
+    "infraccion": "Estacionar en una zona rigida",
+    "monto": "100",
+    "rebaja": "0",
+    "valor": "100"
+  },
+  {
+    "placa": "ABC123",
+    "numero_papeleta": "114183",
+    "fecha": "2011-09-12",
+    "cod_infraccion": "E3",
+    "infraccion": "Estacionar interrumpir transito",
+    "monto": "250",
+    "rebaja": "0",
+    "valor": "250"
+  },
+  {
+    "placa": "ABC123",
+    "numero_papeleta": "114184",
+    "fecha": "2013-09-12",
+    "cod_infraccion": "C9",
+    "infraccion": "Estacionar interrumpir transito",
+    "monto": "150",
+    "rebaja": "0",
+    "valor": "150"
+  },
+  {
+    "placa": "ABC123",
+    "numero_papeleta": "114185",
+    "fecha": "2013-09-12",
+    "cod_infraccion": "E5",
+    "infraccion": "Conducir en estado de ebriedad comprobado con el examen respectivo o negarse al mismo",
+    "monto": "180",
+    "rebaja": "0",
+    "valor": "180"
+  },
+  {
+    "placa": "ABC123",
+    "numero_papeleta": "114186",
+    "fecha": "2013-09-12",
+    "cod_infraccion": "E1",
+    "infraccion": "Estacionar en una zona rigida",
+    "monto": "220",
+    "rebaja": "0",
+    "valor": "220"
+  },
+  {
+    "placa": "ABC123",
+    "numero_papeleta": "114187",
+    "fecha": "1998-05-12",
+    "cod_infraccion": "C2",
+    "infraccion": "Estacionar en zona rigida senalada",
+    "monto": "130",
+    "rebaja": "0",
+    "valor": "130"
+  },
+  {
+    "placa": "ABC123",
+    "numero_papeleta": "114188",
+    "fecha": "1998-12-17",
+    "cod_infraccion": "C1",
+    "infraccion": "Conducir en estado de ebriedad comprobado con el examen respectivo o negarse al mismo",
+    "monto": "260",
+    "rebaja": "0",
+    "valor": "260"
+  },
+  {
+    "placa": "ABC123",
+    "numero_papeleta": "114189",
+    "fecha": "1999-11-12",
+    "cod_infraccion": "E7",
+    "infraccion": "Detener el vehiculo sobre demarcatoria de interseccion o en el crucero peatonal",
+    "monto": "140",
+    "rebaja": "0",
+    "valor": "140"
+  },
+  {
+    "placa": "ABC123",
+    "numero_papeleta": "114190",
+    "fecha": "2000-10-06",
+    "cod_infraccion": "C3",
+    "infraccion": "Estacionar interrumpir transito",
+    "monto": "290",
+    "rebaja": "0",
+    "valor": "290"
+  },
+  {
+    "placa": "ABC123",
+    "numero_papeleta": "114191",
+    "fecha": "2001-01-02",
+    "cod_infraccion": "C1",
+    "infraccion": "Conducir en estado de ebriedad comprobado con el examen respectivo o negarse al mismo",
+    "monto": "300",
+    "rebaja": "0",
+    "valor": "300"
+  },
+  {
+    "placa": "ABC123",
+    "numero_papeleta": "114192",
+    "fecha": "2013-09-12",
+    "cod_infraccion": "E2",
+    "infraccion": "Estacionar en una zona rigida",
+    "monto": "130",
+    "rebaja": "0",
+    "valor": "130"
+  },
+  {
+    "placa": "ABC123",
+    "numero_papeleta": "114193",
+    "fecha": "2011-09-12",
+    "cod_infraccion": "C6",
+    "infraccion": "Estacionar en una zona rigida",
+    "monto": "140",
+    "rebaja": "0",
+    "valor": "140"
+  },
+  {
+    "placa": "ABC123",
+    "numero_papeleta": "114194",
+    "fecha": "2013-09-12",
+    "cod_infraccion": "E4",
+    "infraccion": "Conducir en estado de ebriedad comprobado con el examen respectivo o negarse al mismo",
+    "monto": "140",
+    "rebaja": "0",
+    "valor": "140"
+  },
+  {
+    "placa": "ABC123",
+    "numero_papeleta": "114195",
+    "fecha": "2011-09-12",
+    "cod_infraccion": "E4",
+    "infraccion": "Estacionar en una zona rigida",
+    "monto": "150",
+    "rebaja": "0",
+    "valor": "150"
+  },
+  {
+    "placa": "ABC123",
+    "numero_papeleta": "114196",
+    "fecha": "2013-09-12",
+    "cod_infraccion": "C6",
+    "infraccion": "Conducir en estado de ebriedad comprobado con el examen respectivo o negarse al mismo",
+    "monto": "30",
+    "rebaja": "0",
+    "valor": "30"
+  },
+  {
+    "placa": "ABC123",
+    "numero_papeleta": "114197",
+    "fecha": "2011-09-12",
+    "cod_infraccion": "E6",
+    "infraccion": "Estacionar en una zona rigida",
+    "monto": "40",
+    "rebaja": "0",
+    "valor": "40"
+  },
+  {
+    "placa": "ABC123",
+    "numero_papeleta": "114198",
+    "fecha": "2011-09-12",
+    "cod_infraccion": "C2",
+    "infraccion": "Conducir en estado de ebriedad comprobado con el examen respectivo o negarse al mismo",
+    "monto": "300",
+    "rebaja": "0",
+    "valor": "300"
+  },
+  {
+    "placa": "ABC123",
+    "numero_papeleta": "114199",
+    "fecha": "2013-09-12",
+    "cod_infraccion": "E5",
+    "infraccion": "Estacionar en una zona rigida",
+    "monto": "100",
+    "rebaja": "0",
+    "valor": "100"
+  },
+  {
+    "placa": "ABC123",
+    "numero_papeleta": "114200",
+    "fecha": "2011-09-12",
+    "cod_infraccion": "C3",
+    "infraccion": "Estacionar interrumpir transito",
+    "monto": "250",
+    "rebaja": "0",
+    "valor": "250"
+  },
+  {
+    "placa": "ABC123",
+    "numero_papeleta": "114201",
+    "fecha": "2013-09-12",
+    "cod_infraccion": "E9",
+    "infraccion": "Estacionar interrumpir transito",
+    "monto": "150",
+    "rebaja": "0",
+    "valor": "150"
+  },
+  {
+    "placa": "ABC123",
+    "numero_papeleta": "114202",
+    "fecha": "2013-09-12",
+    "cod_infraccion": "C5",
+    "infraccion": "Conducir en estado de ebriedad comprobado con el examen respectivo o negarse al mismo",
+    "monto": "180",
+    "rebaja": "0",
+    "valor": "180"
+  },
+  {
+    "placa": "ABC123",
+    "numero_papeleta": "114203",
+    "fecha": "2013-09-12",
+    "cod_infraccion": "E1",
+    "infraccion": "Estacionar en una zona rigida",
+    "monto": "220",
+    "rebaja": "0",
+    "valor": "220"
+  }
+]

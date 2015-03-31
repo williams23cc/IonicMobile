@@ -1,0 +1,18 @@
+<ion-view view-title="{{detail_lista.numero_papeleta}}">
+  <ion-content class="padding">
+	  <div class="list card">
+	  	<div class="item item-divider">Detalle de Papeleta</div>
+		  	<div class="item item-body" >
+		        <div>
+		        	Numero de Papeleta: <p class="izquierda">{{detail_lista.numero_papeleta}}</p>
+		        	Fecha: <p class="izquierda">{{detail_lista.fecha | date}}</p>
+					Codigo de Infraccion: <p class="izquierda">{{detail_lista.cod_infraccion}}</p>
+					Infraccion: <p class="izquierda">{{detail_lista.infraccion}}</p>
+					Monto: <p class="izquierda">{{detail_lista.monto | currency:'S/.'}}</p>
+					Rebaja: <p class="izquierda">{{detail_lista.rebaja | currency:'S/.'}}</p>
+					Valor: <p class="izquierda">{{detail_lista.valor | currency:'S/.'}}</p>    
+		        </div>
+	      </div>
+	  </div> 
+  </ion-content>
+</ion-view>
